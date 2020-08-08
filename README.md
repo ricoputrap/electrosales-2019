@@ -1,4 +1,4 @@
-# ELECTROSALES 2019 
+﻿# ELECTROSALES 2019 
 An exploratory analysis on the electronic products sales data in US.
 
 #### Acknowledgement
@@ -19,8 +19,8 @@ There are 5 main questions I want to know based on an analysis on the sales data
 1. What was the best month for sales? How much was earned that month?
 2. What city sold the most product?
 3. What time should we display advertisemens to maximize the likelihood of customer’s buying product?
-4. What products are most often sold together?
-5. What product sold the most? Why do you think it sold the most?
+4. What product sold the most? Why do you think it sold the most?
+5. What products are most often sold together?
 
 In this exploratory data analysis, I'll find out the answers for those questions.
 
