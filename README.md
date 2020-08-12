@@ -26,6 +26,7 @@ In this exploratory data analysis, I'll find out the answers for those questions
 
 ## Findings
 #### Q1. What was the best month for sales? How much was earned that month?
+![Sales per Month](https://github.com/rico21rpp/electrosales-2019/blob/master/sales_per_month.png?raw=true)
 * The best month for sales in 2019 was **December**
 * Sales in December was **$4,608,295.70**
 
