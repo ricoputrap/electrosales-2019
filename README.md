@@ -25,21 +25,21 @@ There are 5 main questions I want to know based on an analysis on the sales data
 In this exploratory data analysis, I'll find out the answers for those questions.
 
 ## Findings
-### Q1. What was the best month for sales? How much was earned that month?
+#### Q1. What was the best month for sales? How much was earned that month?
 * The best month for sales in 2019 was **December**
 * Sales in December was **$4,608,295.70**
 
-### Q2. What city sold the most product?
+#### Q2. What city sold the most product?
 The sales in the city of **San Francisco (California) show the best performance**, both in terms of the **quantity ordered** and the total **value of sales** that were obtained.
 
-### Q3. What time should we display advertisemens to maximize the likelihood of customer’s buying product?
+#### Q3. What time should we display advertisemens to maximize the likelihood of customer’s buying product?
 * The daily average sales have increased quite steadily from 3 to 11 o'clock. Therefore, **it is recommended to display ads from 3 until 11 AM**.
 * If we want the ads to be effectively useful, then **Tuesday is the recommended day to show ads to customers** because that day has the highest sales than any other day. On the other hand, **it is not recommended to show important ads on Thursdays** as these are the lowest sales of the week.
 
-### Q4. What product sold the most?
+#### Q4. What product sold the most?
 **AAA Batteries (4-pack) is the most sold product** followed by **AA Batteries (4-pack)** and **USB-C Charging Cable** in the second & third place.
 
-### Q5. What product contributed the most to sales?
+#### Q5. What product contributed the most to sales?
 * The product contributed the most on the company's sales in 2019 is **Macbook Pro Laptop**
 * The sales of this product has a **significant difference** with the sales of another products.
 
@@ -51,5 +51,5 @@ The sales in the city of **San Francisco (California) show the best performance*
 5. In which city is Macbook Pro Laptop selling the most?
 6. What products are most often sold together?
 
-## Dataset
+## Datasets
 [Pandas-Data-Science-Tasks](https://github.com/KeithGalli/Pandas-Data-Science-Tasks) by [Keith Galli](https://github.com/KeithGalli)
