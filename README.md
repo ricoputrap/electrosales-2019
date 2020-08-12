@@ -26,21 +26,27 @@ In this exploratory data analysis, I'll find out the answers for those questions
 
 ## Findings
 #### Q1. What was the best month for sales? How much was earned that month?
-![Sales per Month](https://github.com/rico21rpp/electrosales-2019/blob/master/sales_per_month.png?raw=true)
+![Sales per Month](https://github.com/rico21rpp/electrosales-2019/blob/master/img/sales_per_month.png?raw=true)
 * The best month for sales in 2019 was **December**
 * Sales in December was **$4,608,295.70**
 
 #### Q2. What city sold the most product?
+![Product Quantity Sold per City](https://github.com/rico21rpp/electrosales-2019/blob/master/img/product_quantity_sold_per_city.png?raw=true)
+![Sales per City](https://github.com/rico21rpp/electrosales-2019/blob/master/img/sales_per_city.png?raw=true)
 The sales in the city of **San Francisco (California) show the best performance**, both in terms of the **quantity ordered** and the total **value of sales** that were obtained.
 
-#### Q3. What time should we display advertisemens to maximize the likelihood of customer’s buying product?
+#### Q3. What time should we display advertisements to maximize the likelihood of customer’s buying product?
+![Sales per Hour](https://github.com/rico21rpp/electrosales-2019/blob/master/img/sales_per_hour.png?raw=true)
+![Sales per Day](https://github.com/rico21rpp/electrosales-2019/blob/master/img/sales_per_day.png?raw=true)
 * The daily average sales have increased quite steadily from 3 to 11 o'clock. Therefore, **it is recommended to display ads from 3 until 11 AM**.
 * If we want the ads to be effectively useful, then **Tuesday is the recommended day to show ads to customers** because that day has the highest sales than any other day. On the other hand, **it is not recommended to show important ads on Thursdays** as these are the lowest sales of the week.
 
 #### Q4. What product sold the most?
+![Product Quantity Sold](https://github.com/rico21rpp/electrosales-2019/blob/master/img/product_quantity_sold.png?raw=true)
 **AAA Batteries (4-pack) is the most sold product** followed by **AA Batteries (4-pack)** and **USB-C Charging Cable** in the second & third place.
 
 #### Q5. What product contributed the most to sales?
+![Product Sales](https://github.com/rico21rpp/electrosales-2019/blob/master/img/product_sales.png?raw=true)
 * The product contributed the most on the company's sales in 2019 is **Macbook Pro Laptop**
 * The sales of this product has a **significant difference** with the sales of another products.
 
