@@ -62,6 +62,7 @@ The sales in the city of **San Francisco (California) show the best performance*
 4. In what month did Macbook Pro Laptop sell the most?
 5. In which city is Macbook Pro Laptop selling the most?
 6. What products are most often sold together?
+7. Predicting the optimal product stocks for each month or city
 
 ## Datasets
 [Pandas-Data-Science-Tasks](https://github.com/KeithGalli/Pandas-Data-Science-Tasks) by [Keith Galli](https://github.com/KeithGalli)
